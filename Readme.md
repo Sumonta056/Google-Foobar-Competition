@@ -3,7 +3,7 @@
  
 <h2>🧐 Cracking the Code: My Unforgettable Journey through Google's Secret Coding Challenge : "Google Foobar" 🧐 </h2> 
 
-<img src = "Intro/gg.png" width =600px>
+<img src = "Intro/gg.png" width =700px>
 <br>
 
 <p>
@@ -11,11 +11,14 @@ I was eagerly browsing for information on the <b>Observer design pattern </b>for
 </p>
  
 <img src = "Intro/1.png">
+<img src = "Intro/2.png">
+
 <br>
 
 Fortunately, I was <b>able to pass Level 2</b>, which gave me a sense of achievement and fresh confidence. Now that Level 3 is approaching, there is a whole new world of challenging riddles and complex algorithms to solve. The next part of this surprising experience excites me, and I joyfully welcome it, testing my coding skills.
 
-<img src = "Intro/2.png">
+<img src = "Level22/success.png" width =800px>
+
 
 
 <h3>😊 Sharing every step of my journey of Google Foobar 😊</h3>
@@ -99,7 +102,7 @@ Fortunately, I was <b>able to pass Level 2</b>, which gave me a sense of achieve
 
 
 
-##### 👉 Step 7: I Successfully Completed Level 1 Challenge 🥳🥳🥳
+##### 👉 Step 8: I Successfully Completed Level 1 Challenge 🥳🥳🥳
 
 <div align = "center">
 <img src = "Level1/Pass1.png">
@@ -201,5 +204,99 @@ Fortunately, I was <b>able to pass Level 2</b>, which gave me a sense of achieve
  <h2>😯 Level - 2 ( 50% Completed ) 😯</h2>
 
  <h3>😊 Now Let's Face the Level 2 Challenge - 2 😊</h3>
+
+</div>
+
+<div align = "center">
+<img src = "Intro/wb.png">
+
+</div>
+
+##### 👉 Step 1: Requesting for next question Level 2 Challenge 2
+```code
+    - foobar:~/ Sumontasaha80$ request      
+    // It means you are requesting for your next question of the challenge
+```
+
+##### 👉 Step 2: Level 2 Challenge 2 Problem : "Numbers-Station-Coded-Messages" 🙁
+
+##### 👉 Step 3: Now to get the question and its constraints need to write the following commands 🙁
+```code
+    - foobar:~/ Sumontasaha80$ ls                            // list the contents of the current directory
+
+    ** Output : **
+    journal.txt
+    numbers-station-coded-messages
+    start_here.txt
+
+    - foobar:~/ Sumontasaha80$ cd numbers-station-coded-messages           // change your working directory to folder numbers-station-coded-messages
+    - foobar:~/numbers-station-coded-messages Sumontasaha80$ ls               // list the contents of the current directory
+    
+    ** Output : **
+    Solution.java
+    constraints.txt
+    readme.txt
+    solution.py
+```
+
+##### 👉 Step 4: How to get the question of challenge 2 level 2
+```code
+    - foobar:~/numbers-station-coded-messagesSumontasaha80$ cat readme.txt
+```
+<div align = "center">
+<img src = "Level22/1.png">
+<img src = "Level22/testcases.png">
+</div>
+
+##### 👉 Step 5: How to get the constraints of challenge 2 level 2
+```code
+    - foobar:~/numbers-station-coded-messages Sumontasaha80$ cat constraints.txt
+```
+<div align = "center">
+<img src = "Level22/constraints.png">
+</div>
+
+##### 👉 Step 6: How to Submit the Solution of challenge 2 level 2
+```code
+    // Open Code Terminal First
+    - foobar:~/numbers-station-coded-messages Sumontasaha80$ edit Solution.java
+
+    // Paste or Write the Solution    
+    // Save the solution
+
+    // Verify the solution with constraints
+    - foobar:~/numbers-station-coded-messages Sumontasaha80$ verify Solution.java
+
+    // If all the constraints matched
+    **Output:**
+    Verifying solution...
+    All test cases passed. 
+
+    // For Final Submission 
+    - foobar:~/numbers-station-coded-messages Sumontasaha80$ submit Solution.java
+
+    **Output:**
+    Are you sure you want to submit your solution?
+    [Y]es or [N]o: Y
+    Submitting solution...
+
+```
+
+
+
+##### 👉 Step 7: I Successfully Completed Challenge 2 Level 2 🥳🥳🥳
+
+<div align = "center">
+<img src = "Level22/p.png">
+</div>
+
+
+ <div align = "center">
+
+ <h2>😯 Level - 2 ( 100% Completed ) 😯</h2>
+
+ <img src = "Level22/success.png">
+
+ <h3>😊 Now Let's Face the Level 1 Challenge - 3 😊</h3>
 
 </div>
