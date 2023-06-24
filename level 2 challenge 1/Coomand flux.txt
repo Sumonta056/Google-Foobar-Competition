@@ -1,0 +1,30 @@
+foobar:~/ Sumontasaha80$ ls
+ion-flux-relabelingjournal.txtstart_here.txt
+foobar:~/ Sumontasaha80$ cd ion-flux-relabeling
+foobar:~/ion-flux-relabeling Sumontasaha80$ ls
+Solution.javaconstraints.txtreadme.txtsolution.py
+foobar:~/ion-flux-relabeling Sumontasaha80$ cat readme.txtfoobar:~/ Sumontasaha80$ lsfoobar:~/ Sumontasaha80$ cd ion-flux-relabelingfoobar:~/ion-flux-relabeling Sumontasaha80$ lsfoobar:~/ion-flux-relabeling Sumontasaha80$ cat readme.txt
+
+
+
+foobar:~/ion-flux-relabeling Sumontasaha80$ edit solution.py
+foobar:~/ion-flux-relabeling Sumontasaha80$ verify solution.py
+Verifying solution...
+Test 1 failed : FILENAME_MISMATCH
+Test 2 failed : FILENAME_MISMATCH
+Test 3 failed  [Hidden]: FILENAME_MISMATCH
+foobar:~/ion-flux-relabeling Sumontasaha80$ verify solution.py
+Verifying solution...
+All test cases passed. Use submit solution.py to submit your solution
+
+foobar:~/ion-flux-relabeling Sumontasaha80$ submit solution.py
+Are you sure you want to submit your solution?
+                          
+[Y]es or [N]o: Y
+Submitting solution...
+Submission: SUCCESSFUL. Completed in: 2 days, 13 hrs, 58 mins, 17 secs..foobar:~/ion-flux-relabeling Sumontasaha80$ submit solution.py[Y]es or [N]o: Y
+
+
+Current level: 2.Challenges left to complete level: 1.Level 1: 100% [==========================================]Level 2:  50% [=====================.....................]Level 3:   0% [..........................................]Level 4:   0% [..........................................]Level 5:   0% [..........................................]Type request to request a new challenge now, or come back later.
+
+
