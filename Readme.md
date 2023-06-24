@@ -1,17 +1,23 @@
  
  <div align = "center">
  
- ## 🧐 Cracking the Code: My Unforgettable Journey through Google's Secret Coding Challenge : "Google Foobar" 🧐 
+<h2>🧐 Cracking the Code: My Unforgettable Journey through Google's Secret Coding Challenge : "Google Foobar" 🧐 </h2> 
 
- I was eagerly browsing for information on the <b>Observer design pattern </b>for my academic course exam when, out of nowhere blue, an unexpected website called <b>Google Foobar </b>presented itself to me. I was curious and fascinated, so I dove into its mysterious depths and found <b>an exclusive coding challenge that only a select few lucky people get to take part in.</b>
+<br>
 
+<p>
+I was eagerly browsing for information on the <b>Observer design pattern </b>for my academic course exam when, out of nowhere blue, an unexpected website called <b>Google Foobar </b>presented itself to me. I was curious and fascinated, so I dove into its mysterious depths and found <b>an exclusive coding challenge that only a select few lucky people get to take part in.</b>
+</p>
+ 
 <img src = "Intro/1.png">
+<br>
 
 Fortunately, I was <b>able to pass Level 2</b>, which gave me a sense of achievement and fresh confidence. Now that Level 3 is approaching, there is a whole new world of challenging riddles and complex algorithms to solve. The next part of this surprising experience excites me, and I joyfully welcome it, testing my coding skills.
 
 <img src = "Intro/2.png">
 
-### 😊 Sharing every step of my journey of Google Foobar 😊
+
+<h3>😊 Sharing every step of my journey of Google Foobar 😊</h3>
 
 </div>
 
