@@ -3,7 +3,7 @@
  
 <h2>🧐 Cracking the Code: My Unforgettable Journey through Google's Secret Coding Challenge : "Google Foobar" 🧐 </h2> 
 
-<img src = "Intro/gg.png" width =700px>
+<img src = "Intro/gg.png" width =600px>
 <br>
 
 <p>
@@ -17,7 +17,7 @@ I was eagerly browsing for information on the <b>Observer design pattern </b>for
 
 Fortunately, I was <b>able to pass Level 2</b>, which gave me a sense of achievement and fresh confidence. Now that Level 3 is approaching, there is a whole new world of challenging riddles and complex algorithms to solve. The next part of this surprising experience excites me, and I joyfully welcome it, testing my coding skills.
 
-<img src = "Level22/success.png" width =800px>
+<img src = "Level22/success.png" width =700px>
 
 
 
